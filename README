@@ -18,3 +18,8 @@ You will need SDL and GL packages along with GLUT. A list:
 
 Just be sure to install the development packages for these
 libraries.
+
+For debian based systems, you can try:
+
+sudo apt-get install libgl1-mesa-dev libsdl1.2-dev libsdl-net1.2-dev
+ libsdl-image1.2-dev  libsdl-mixer1.2-dev libglut-dev
