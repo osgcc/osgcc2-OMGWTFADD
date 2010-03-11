@@ -1,0 +1,20 @@
+To build, go into the src directory and type:
+
+  make
+
+It will generate an executable in the preceding directory called
+omgwtfadd. To play, type:
+
+ ./omgwtfadd
+
+You will need SDL and GL packages along with GLUT. A list:
+
+ libGL
+ libSDL
+ libSDL_net
+ libSDL_mixer
+ libSDL_image
+ libglut
+
+Just be sure to install the development packages for these
+libraries.
